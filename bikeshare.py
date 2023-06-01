@@ -217,3 +217,6 @@ if __name__ == "__main__":
 	main()
 
 #Random comments as requested in Section III of projecet to simualte other people working on project
+
+#Pseudo code #1 to support Section IV Refactoring
+#Pseudo code #2 to support Section IV Refactoring
